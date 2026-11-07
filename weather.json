@@ -1,0 +1,1285 @@
+{
+ "generatedAt": "2026-11-07T11:02:36.578Z",
+ "base": {
+  "base_date": "20261107",
+  "base_time": "1700"
+ },
+ "source": "기상청 「단기예보 조회서비스」·「중기예보 조회서비스」 (공공누리 제1유형)",
+ "regions": {
+  "천안시": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 5,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 1,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "비",
+    "outdoor": "bad"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 12,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 8,
+    "tmax": 15,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "공주시": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 4,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 12,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 15,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "보령시": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 5,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 11,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 9,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 11,
+    "tmax": 14,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "아산시": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 5,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 1,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "비",
+    "outdoor": "bad"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 12,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 16,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "서산시": {
+   "2026-11-07": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 4,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 1,
+    "tmax": 9,
+    "skyText": "흐림",
+    "ptyText": "비",
+    "outdoor": "bad"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 12,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 16,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "논산시": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 6,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 13,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 10,
+    "tmax": 16,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "계룡시": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 4,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 9,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 12,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": -1,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 12,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 7,
+    "tmax": 15,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "당진시": {
+   "2026-11-07": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 5,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 1,
+    "tmax": 9,
+    "skyText": "흐림",
+    "ptyText": "비",
+    "outdoor": "bad"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 11,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 16,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "금산군": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 5,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": -1,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 12,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": -1,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 8,
+    "tmax": 16,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "부여군": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 6,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 12,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 15,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "서천군": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 7,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 8,
+    "tmax": 12,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 12,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 10,
+    "tmax": 14,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "청양군": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 4,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 3,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 10,
+    "skyText": "구름많음",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 12,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 14,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "홍성군": {
+   "2026-11-07": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 6,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 11,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 1,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 15,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "예산군": {
+   "2026-11-07": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 2,
+    "tmax": 4,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 1,
+    "tmax": 9,
+    "skyText": "흐림",
+    "ptyText": "비",
+    "outdoor": "bad"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 0,
+    "tmax": 11,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 13,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 3,
+    "tmax": 16,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 9,
+    "tmax": 16,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  },
+  "태안군": {
+   "2026-11-07": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 6,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-08": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 2,
+    "tmax": 9,
+    "skyText": "흐림",
+    "ptyText": "비",
+    "outdoor": "bad"
+   },
+   "2026-11-09": {
+    "pop": 30,
+    "sky": 4,
+    "pty": 0,
+    "tmin": 7,
+    "tmax": 10,
+    "skyText": "흐림",
+    "ptyText": "",
+    "outdoor": "soso"
+   },
+   "2026-11-10": {
+    "pop": 0,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 4,
+    "tmax": 11,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-11": {
+    "pop": 20,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good"
+   },
+   "2026-11-12": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 5,
+    "tmax": 14,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-13": {
+    "pop": 10,
+    "sky": 1,
+    "pty": 0,
+    "tmin": 6,
+    "tmax": 15,
+    "skyText": "맑음",
+    "ptyText": "",
+    "outdoor": "good",
+    "source": "mid"
+   },
+   "2026-11-14": {
+    "pop": 60,
+    "sky": 4,
+    "pty": 1,
+    "tmin": 10,
+    "tmax": 15,
+    "skyText": "",
+    "ptyText": "비",
+    "outdoor": "bad",
+    "source": "mid"
+   }
+  }
+ }
+}
